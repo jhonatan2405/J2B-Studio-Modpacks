@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "packs": [
+    {
+      "id": "the-last-expedition",
+      "name": "The Last Expedition",
+      "description": "Supervivencia, exploración y aventura con todo el contenido oficial del servidor.",
+      "version": "1.0.0",
+      "minecraftVersion": "1.20.1",
+      "loader": "forge",
+      "loaderVersion": "47.4.20",
+      "mods": 334,
+      "size": 731977000,
+      "asset": "the-last-expedition-1.0.0.zip",
+      "sha256": "841f726bfff921414a0c01897d9057794c51a7e256eaf891afce33418152ba3e"
+    }
+  ]
+}
