@@ -5,17 +5,17 @@
       "id": "multisafio",
       "name": "MultiSafío",
       "description": "Supervivencia, exploración, tecnología, magia, construcción, criaturas y nuevas dimensiones en una experiencia oficial de J2B Studio.",
-      "version": "1.0.12",
+      "version": "1.0.13",
       "minecraftVersion": "1.20.1",
       "loader": "forge",
       "loaderVersion": "47.4.20",
       "mods": 315,
-      "size": 707573309,
-      "asset": "multisafio-1.0.12.zip",
-      "sha256": "45da4734b2e4b7a0db4a4ef6da2d1f76b4ca3c935a99491a83eb89da6d6cac4d",
-      "releaseAt": "2026-10-17T14:40:00-05:00",
+      "size": 707562264,
+      "asset": "multisafio-1.0.13.zip",
+      "sha256": "c6204f6c93576e8b86f357f7bcf33e77186b9ba877e587d2114cc9f1040dc25f",
+      "releaseAt": "2026-10-17T17:40:00-05:00",
       "earlyAccess": true,
-      "iconUrl": "https://github.com/jhonatan2405/J2B-Studio-Modpacks/releases/download/multisafio-v1.0.12/multisafio-icon.png"
+      "iconUrl": "https://github.com/jhonatan2405/J2B-Studio-Modpacks/releases/download/multisafio-v1.0.13/multisafio-icon.png"
     },
     {
       "id": "the-last-expedition",
