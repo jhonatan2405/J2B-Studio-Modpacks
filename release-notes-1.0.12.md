@@ -10,3 +10,5 @@
 - Mantiene Minecraft 1.20.1 con Forge 47.4.20 y 315 mods en el cliente.
 
 El paquete dedicado de exaroton se validó por separado con 258 mods de servidor y el mundo final preparado.
+
+- Corrección del paquete dedicado: los datapacks del mundo ahora se incluyen en world/datapacks; se publica un parche pequeño para instalaciones ya subidas.
